@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 150">
+    <!-- Logo principale con effetto 3D + neon -->
+    <g transform="translate(0, 0)">
+        <!-- Effetto neon glow esterno -->
+        <text x="150" y="95" font-family="Georgia" font-size="82" 
+              fill="none" stroke="#ff333355" stroke-width="12"
+              text-anchor="middle" font-style="italic">Dema</text>
+              
+        <!-- Ombra 3D più scura -->
+        <text x="152" y="97" font-family="Georgia" font-size="82" 
+              fill="#990000" text-anchor="middle" 
+              font-style="italic">Dema</text>
+              
+        <!-- Ombra 3D media -->
+        <text x="151" y="96" font-family="Georgia" font-size="82" 
+              fill="#cc0000" text-anchor="middle" 
+              font-style="italic">Dema</text>
+        
+        <!-- Testo principale -->
+        <text x="150" y="95" font-family="Georgia" font-size="82" 
+              fill="#ff3333" text-anchor="middle" 
+              font-style="italic">Dema</text>
+              
+        <!-- Linee con effetto 3D + neon -->
+        <!-- Glow linea principale -->
+        <line x1="50" y1="75" x2="250" y2="75" 
+              stroke="#ff333355" stroke-width="10"/>
+              
+        <!-- Ombra linea principale -->
+        <line x1="51" y1="77" x2="251" y2="77" 
+              stroke="#660000" stroke-width="3"/>
+        <line x1="50" y1="76" x2="250" y2="76" 
+              stroke="#cc0000" stroke-width="3"/>
+        
+        <!-- Linea principale -->
+        <line x1="50" y1="75" x2="250" y2="75"  
+              stroke="#000000" stroke-width="2"/>
+              
+        <!-- Glow linea superiore -->
+        <line x1="50" y1="55" x2="110" y2="55"  
+              stroke="#ff333355" stroke-width="10"/>
+              
+        <!-- Ombra linea superiore -->
+        <line x1="51" y1="57" x2="111" y2="57" 
+              stroke="#660000" stroke-width="3"/>
+        <line x1="50" y1="56" x2="110" y2="56"  
+              stroke="#cc0000" stroke-width="3"/>
+        
+        <!-- Linea superiore -->
+        <line x1="50" y1="55" x2="110" y2="55" 
+              stroke="#000000" stroke-width="2"/>
+    </g>
+</svg>

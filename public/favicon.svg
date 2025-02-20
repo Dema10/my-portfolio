@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 150">
+    <!-- Favicon GDM -->
+    <!-- Cerchio di background -->
+    <circle cx="75" cy="75" r="60" fill="#ff3333"/>
+    
+    <!-- Testo GDM -->
+    <text x="75" y="90" font-family="Georgia" font-size="36" 
+          fill="#000000" text-anchor="middle" 
+          font-style="italic">GDM</text>
+</svg>
